@@ -1,6 +1,6 @@
 # CS-210-Fall-2024-Project
 
-This project aims to analyze my football match statistics from **Dream League Soccer 2024**, a free-to-play mobile football game. The analysis will involve collecting match data from a website tracking my personal matches and performing statistical evaluations based on various match events, such as goals and "Player of the Match" awards.
+This project aims to analyze my football match statistics from **Dream League Soccer 2024**, a free-to-play mobile football game. The analysis will involve collecting match data from a website tracking my personal matches and performing statistical evaluations based on various match events, such as goals, "Player of the Match" awards, match result and match time.
 
 ## About Dream League Soccer 2024
 
@@ -9,7 +9,7 @@ Dream League Soccer 2024 is a popular mobile football game that allows players t
 ## Project Overview
 
 The goal of this project is to collect data from a website that tracks **my personal matches** in Dream League Soccer 2024. Using web scraping techniques, I will extract the following match details.
-After gathering the data, I will perform statistical analyses to explore patterns and correlations between match events, player performances or time of the match.
+After gathering the data, I will perform statistical analyses to explore patterns and correlations between match events, match results or time of the match.
 
 ### Planned Steps
 
