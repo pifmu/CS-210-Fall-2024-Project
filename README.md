@@ -13,11 +13,11 @@ After gathering the data, I will perform statistical analyses to explore pattern
 
 ### Planned Steps
 
-1. **Web Scraping**: The first step is to scrape match data from the website [https://tracker.ftgames.com/?id=cf8g6gt0](https://tracker.ftgames.com/?id=cf8g6gt0), extracting key details about each match, including the score, timestamps, goal scorers, and any card information.
+1. **Web Scraping**: The first step is to scrape match data from the website [https://tracker.ftgames.com/?id=cf8g6gt0](https://tracker.ftgames.com/?id=cf8g6gt0), extracting key details about each match, including the score, timestamps and goal scorers.
    
 2. **Data Organization**: Once the data is gathered, it will be organized and cleaned in preparation for analysis. This will involve structuring the data in a way that is easy to manipulate and analyze.
 
-3. **Data Analysis**: The next step will involve performing statistical analyses on the data to identify patterns, trends, and correlations between different match events (e.g., goals, match time, and performance ratings).
+3. **Data Analysis**: The next step will involve performing statistical analyses on the data to identify patterns, trends, and correlations between different match events (e.g., goals, match time).
 
 4. **Visualization**: Finally, the results of the analysis will be presented in visual formats such as graphs and charts, making it easier to interpret the findings and draw conclusions.
 
