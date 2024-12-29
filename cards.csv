@@ -1,0 +1,168 @@
+match_id,minute,player_first_name,player_last_name,is_yellow
+0x425efdbbf0f848ea,17,Rúben,Dias,True
+0x64339065965ff28f,49,Ibrahima,Konaté,True
+0x64339065965ff28f,6,Trent,Alexander-Arnold,True
+0x6433906595fcfc2f,45,Rúben,Dias,True
+0x6433906595b67f3a,69,,Ederson,True
+0x643390659566af81,90,Diogo,Jota,True
+0x6433906595644296,34,Iñigo,Martínez,True
+0x64339065950fe116,67,Alejandro,Balde,True
+0x64339065950fe116,34,Iñigo,Martínez,True
+0x64339065950fe116,56,Ronald,Araújo,True
+0x6433906594e22295,17,Jules,Koundé,True
+0x6433906593d60507,53,Jules,Koundé,True
+0x6433906593d60507,90,Mohamed,Salah,True
+0x64339065930c6cd2,45,Rúben,Dias,True
+0x64339065930be118,9,Virgil,van Dijk,False
+0x64339065915c2dc5,58,Jules,Koundé,True
+0x6433906590d61d0e,90,Rúben,Dias,False
+0xc0ca745aa383312,13,John,Stones,True
+0xc0ca745aa383312,90,John,Stones,False
+0xc0ca745a97df444,20,Virgil,van Dijk,False
+0xc0ca745a97df444,45,John,Stones,True
+0xc0ca745a97df444,24,Federico,Valverde,True
+0xc0ca745a97c8035,77,Rúben,Dias,False
+0xc0ca745a96fcb85,28,John,Stones,True
+0xc0ca745a96fcb85,33,Jules,Koundé,True
+0xc0ca745a8389477,68,John,Stones,True
+0xc0ca745a8389477,34,Jules,Koundé,True
+0xc0ca745a838106c,76,Virgil,van Dijk,True
+0xc0ca745a83793de,80,John,Stones,True
+0xc0ca745a7f61a37,87,Virgil,van Dijk,True
+0xc0ca745a7f61a37,30,Jules,Koundé,True
+0xc0ca745a7b70daf,17,John,Stones,False
+0xc0ca745a7b693f0,21,John,Stones,True
+0xc0ca745a693d813,67,Kyle,Walker,True
+0xc0ca745a64dd7c8,21,Rúben,Dias,False
+0xc0ca745a64dd7c8,73,Jules,Koundé,True
+0xc0ca745a57b7dfa,79,Rúben,Dias,False
+0xc0ca745a4f7186a,38,Andrew,Robertson,True
+0xc0ca745a4f7186a,45,Jules,Koundé,True
+0xc0ca745a4c323fa,4,Virgil,van Dijk,True
+0xc0ca745a473faf9,86,Mohamed,Salah,False
+0xc0ca745a46a806f,29,Rúben,Dias,True
+0xc0ca745a45ab8d1,51,Virgil,van Dijk,True
+0xc0ca745a3c9123c,62,John,Stones,False
+0xc0ca745a3c9123c,59,Dominik,Szoboszlai,True
+0xc0ca745a3b1eedc,49,Virgil,van Dijk,False
+0xc0ca745a37a8ae0,88,Rúben,Dias,True
+0xc0ca745a37a8ae0,14,Federico,Valverde,False
+0xc0ca745a3612a13,62,Vinícius,Júnior,True
+0xc0ca745a31e51da,64,Cristiano,Ronaldo,True
+0xc0ca745a3001971,61,Jules,Koundé,True
+0xc0ca745a21b13d0,65,Virgil,van Dijk,False
+0xc0ca745a1578311,51,Gleison,Bremer,True
+0xc0ca745a031988d,28,,Ederson,True
+0xe59c1b8f047b0091,84,Kyle,Walker,True
+0xe59c1b8f045a9a73,11,John,Stones,True
+0xe59c1b8f045a9a73,74,John,Stones,False
+0xe59c1b8f0459c53e,51,Virgil,van Dijk,True
+0xe59c1b8f0458f0f5,70,Rúben,Dias,False
+0xe59c1b8f03d4f63b,52,Rúben,Dias,False
+0xe59c1b8f03c01e1c,22,Rúben,Dias,True
+0xe59c1b8f03b87ca2,62,Bruno,Fernandes,True
+0xe59c1b8f037ee60c,68,Federico,Valverde,False
+0xe59c1b8f037ee60c,88,Cristiano,Ronaldo,False
+0xe59c1b8f036bcb57,84,John,Stones,False
+0xe59c1b8f033bafd5,58,John,Stones,True
+0xe59c1b8f03258691,89,John,Stones,True
+0xe59c1b8f030ec35e,79,Virgil,van Dijk,False
+0xe59c1b8f02f93f9d,65,Rúben,Dias,True
+0xe59c1b8f02f8a871,67,Cristiano,Ronaldo,True
+0xe59c1b8f02f81a27,80,Jules,Koundé,True
+0xe59c1b8f02f81a27,68,Mohamed,Salah,True
+0xe59c1b8f02f286af,29,Jules,Koundé,True
+0xe59c1b8f02cc8eba,76,Rúben,Dias,True
+0xe59c1b8f02a51103,28,Virgil,van Dijk,True
+0xe59c1b8f029796c6,63,Kyle,Walker,False
+0xe59c1b8f0283cffa,6,Mohamed,Salah,True
+0xe59c1b8f02835b1f,63,Vinícius,Júnior,True
+0xe59c1b8f0282d921,67,Alexandre,Lacazette,True
+0xe59c1b8f022653b8,67,Kyle,Walker,True
+0xe59c1b8f02192801,13,Jules,Koundé,True
+0xe59c1b8f02192801,20,Jules,Koundé,False
+0xe59c1b8f021884d3,90,Jules,Koundé,True
+0xe59c1b8f0217d84b,90,John,Stones,False
+0xe59c1b8f0217d84b,54,Rúben,Dias,False
+0xe59c1b8f0217d84b,75,Dominik,Szoboszlai,True
+0xe59c1b8f016fe642,87,Virgil,van Dijk,True
+0xe59c1b8f016e3e48,29,Federico,Valverde,True
+0xe59c1b8f016dbd7a,26,Mohamed,Salah,True
+0xe59c1b8f016d047d,32,Andrew,Robertson,False
+0xe59c1b8f01080d50,90,Rúben,Dias,False
+0xe59c1b8f00ef5996,48,Virgil,van Dijk,True
+0xe59c1b8f00ef5996,30,Federico,Valverde,True
+0xe59c1b8f00e14b42,31,Geoffrey,Kondogbia,False
+0xe59c1b8f00e03960,76,Dominik,Szoboszlai,True
+0xe59c1b8f00df7c5b,90,Andrew,Robertson,False
+0xe59c1b8f00df7c5b,44,Virgil,van Dijk,False
+0xa086f88ba3dedbba,26,Virgil,van Dijk,False
+0xa086f88ba3c0ee43,68,John,Stones,True
+0xa086f88ba3c00d61,32,John,Stones,True
+0xa086f88ba35dfb32,54,John,Stones,True
+0xa086f88ba35d4e3c,90,Federico,Valverde,True
+0xa086f88ba3266d54,64,Virgil,van Dijk,False
+0xa086f88ba2fd5a9c,21,Rúben,Dias,False
+0xa086f88ba2fccb86,67,John,Stones,False
+0xa086f88ba2c750fc,120,John,Stones,True
+0xa086f88ba2c750fc,29,Rúben,Dias,False
+0xa086f88ba2bfa58e,30,Kyle,Walker,True
+0xa086f88ba2be1a6e,90,John,Stones,False
+0xa086f88ba2be1a6e,19,Virgil,van Dijk,True
+0xa086f88ba235175a,82,Rúben,Dias,False
+0xa086f88ba20f53d7,39,John,Stones,True
+0xa086f88ba20f53d7,105,Virgil,van Dijk,False
+0xa086f88ba1f06a4b,84,Kyle,Walker,True
+0xa086f88ba1b04318,86,Rúben,Dias,False
+0xa086f88ba1af764d,22,Dominik,Szoboszlai,True
+0xa086f88ba191197c,90,Virgil,van Dijk,True
+0xa086f88ba1442089,86,Jules,Koundé,True
+0xa086f88ba11e7254,88,Virgil,van Dijk,True
+0xa086f88ba11d8620,18,John,Stones,True
+0xa086f88ba0fa5724,18,Andrew,Robertson,True
+0xa086f88ba03c86ac,81,Diogo,Jota,True
+0xa086f88ba0306b09,120,Virgil,van Dijk,True
+0xa086f88ba0306b09,61,Rúben,Dias,True
+0xa086f88ba0306b09,72,Rúben,Dias,False
+0xa086f88ba02f4b42,81,Kyle,Walker,True
+0xa086f88ba02e20d2,68,Rúben,Dias,True
+0xa086f88ba01fd692,36,Rúben,Dias,True
+0xa086f88ba01f3727,117,Dominik,Szoboszlai,True
+0xa086f88ba01e4558,45,Jules,Koundé,True
+0xa086f88b9ffef415,45,Rúben,Dias,True
+0xa086f88b9fe5558b,31,Jules,Koundé,True
+0xa086f88b9fc81c2b,87,Cristiano,Ronaldo,True
+0xa086f88b9f773a45,90,Virgil,van Dijk,True
+0xa086f88b9e53f76b,39,Virgil,van Dijk,True
+0xa086f88b9dd54468,12,Victor,Osimhen,True
+0xa086f88b9db38873,18,Rúben,Dias,True
+0xa086f88b9d678b5b,78,Andrew,Robertson,True
+0xa086f88b9d1432b0,82,Kyle,Walker,True
+0xa086f88b9d0daca6,65,Dominik,Szoboszlai,True
+0xa086f88b9d0d0113,83,Mohamed,Salah,False
+0xa086f88b9ce48c1f,88,Andrew,Robertson,True
+0xa086f88b9cc4b837,64,Virgil,van Dijk,False
+0xa086f88b9ca909a8,43,Andrew,Robertson,True
+0xa086f88b9ca909a8,17,Virgil,van Dijk,True
+0xa086f88b9c97ee8c,59,Kyle,Walker,True
+0xa086f88b9c95f27c,71,Jonathan,David,True
+0xa086f88b9bac377d,61,Jules,Koundé,True
+0xa086f88b9b925cc5,77,Kyle,Walker,True
+0xa086f88b9b1a9088,10,Rúben,Dias,True
+0xa086f88b9acf7148,41,Vinícius,Júnior,True
+0xa086f88b9ac2406a,25,Rúben,Dias,False
+0xa086f88b9ac13978,70,Cristiano,Ronaldo,True
+0xa086f88b9a946b05,72,António,Silva,True
+0xa086f88b9a3e67c1,39,John,Stones,True
+0xa086f88b99ba48fe,83,Antoine,Griezmann,True
+0xa086f88b99ba48fe,77,Rúben,Dias,False
+0xa086f88b99b99ae9,89,Virgil,van Dijk,False
+0xa086f88b99962c6d,90,António,Silva,True
+0xa086f88b9994d51f,90,Virgil,van Dijk,True
+0xa086f88b993a9c0f,72,Rúben,Dias,True
+0xa086f88b98cb9f24,15,Jules,Koundé,True
+0xa086f88b98b1431d,88,Rúben,Dias,False
+0xa086f88b983143cd,69,Jules,Koundé,True
+0xa086f88b97ad0292,26,Jonathan,David,True
+0xa086f88b97611df3,88,Jules,Koundé,True
+0xa086f88b9722bdad,53,Jules,Koundé,True
